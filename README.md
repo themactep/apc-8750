@@ -1,4 +1,4 @@
-# APC Uboot and Kernel
+# APC U-Boot and Kernel
 
 Run `./build.sh uboot` to compile bootloader.
 
